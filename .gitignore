@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+Frontend/node_modules/
+
+# Next.js build output
+.next/
+Frontend/.next/
+out/
+Frontend/out/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Build output
+dist/
+build/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
